@@ -29,3 +29,7 @@ It controls the interaction between **software** and **hardware** in systems.
 
 ## 💡 What I Learned
 Linux is not just an OS. it's the **backbone of modern IT infrastructure**. From powering cloud platforms to enabling DevOps pipelines, Linux skills are **essential** for any tech professional.
+
+## Screenshot
+
+![Linux Terminal](linux-terminal.png)
