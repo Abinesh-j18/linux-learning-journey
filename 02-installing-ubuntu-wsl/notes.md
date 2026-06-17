@@ -99,10 +99,6 @@ Ubuntu    Running  2
 
 ![Ubuntu First Launch](ubuntu-first-launch.png)
 
-### Verify Installation
-
-![WSL Version](wsl-version.png)
-
 
 ---
 
